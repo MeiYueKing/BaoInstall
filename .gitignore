@@ -23,3 +23,6 @@ local.properties
 # 签名文件
 *.jks
 *.keystore
+
+# IDE
+/.idea/
