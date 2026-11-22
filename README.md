@@ -52,6 +52,16 @@ app/src/main/java/bao/omk/
 
 本模块会修改系统 `system_server` 的行为，并需要 Root 权限。使用前请确认你理解风险，作者不对任何设备损坏或数据丢失负责。
 
+## 关于创作方式
+
+本项目由 **AI 辅助创作**：从代码结构、Compose 界面、`system_server` 侧 Hook 到这份文档，均在 WorkBuddy（DeepSeek-V4.1-Flash）的对话式协助下完成；需求、方案取舍与真机验证由开发者负责。
+
+AI 生成的代码可能存在缺陷，尤其涉及 Root 与系统框架的部分，请在使用前自行评估。
+
+## 许可证
+
+本项目基于 [GNU General Public License v3.0](LICENSE) 发布。
+
 ## 开发者
 
 芝士🧀雪豹 · [github.com/MeiYueKing](https://github.com/MeiYueKing)
