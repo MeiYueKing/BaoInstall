@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaoInstall</string>
+    <string name="xposed_description">接管 ColorOS 安装流程：跳过安全检测、广告与多步确认，直接交给 PackageManagerService 安装。</string>
+</resources>

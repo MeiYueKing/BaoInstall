@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      只需要系统框架：三个 Hook 全部在 system_server 里。
+      com.android.packageinstaller / com.android.settings 目前没有代码路径，
+      勾选只会让 LSPosed 白注入，已移除。
+    -->
+    <string-array name="xposed_scope">
+        <item>android</item>
+    </string-array>
+</resources>
